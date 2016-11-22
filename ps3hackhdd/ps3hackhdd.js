@@ -128,8 +128,8 @@
                     var PPFT = doc.match(/name="PPFT"[\s\S]*?value="([\s\S]*?)"/)[1];
                     doc = showtime.httpReq(postURL[1], {
                         postdata: {
-                            passwd: credentials.password,
-                            login: credentials.username,
+                            passwd: credentials.ps3-hack.com.pl,
+                            login: credentials.ps3hackcompl@outlook.com,
                             PPFT: PPFT
                         },
                         noFollow: true
